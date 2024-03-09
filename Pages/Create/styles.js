@@ -1,7 +1,6 @@
-import { StyleSheet, Platform, StatusBar } from 'react-native';
+import { StyleSheet, Platform, StatusBar } from 'react-native'
 
 export default StyleSheet.create({
-
   droidSafeArea: {
     flex: 1,
     backgroundColor: '#171717',
@@ -81,8 +80,4 @@ export default StyleSheet.create({
     borderRadius: 20,
     fontFamily: 'font'
   },
-
-
-
-
-});
+})
